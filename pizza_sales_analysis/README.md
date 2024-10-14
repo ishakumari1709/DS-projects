@@ -45,7 +45,7 @@ We welcome contributions to improve the dashboard. Please follow these steps:
 - Push your changes to your fork.
 - Create a pull request with a detailed description of your changes.
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/ishakumari1709/DS-projects/blob/main/LICENSE)file for more details.
 
 ## Contact
 Please open an issue in the repository or send us an email at ishakumari943@gmail.com if you have any questions or comments.
