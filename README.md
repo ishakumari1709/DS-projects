@@ -37,7 +37,7 @@ This project scrapes book titles, star ratings, prices, availability, and URLs f
 - Generates visualizations for price distribution and star rating counts.
 - Implements error handling and timeouts to avoid server overload.
 
-➡️ **For more details**, explore the [book web scraping analysis]().
+➡️ **For more details**, explore the [book web scraping analysis](https://github.com/ishakumari1709/DS-projects/tree/main/book%20web%20scraping%20analysis).
   
 
 ## **How to Get Started**
