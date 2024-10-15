@@ -96,4 +96,4 @@ Feel free to **fork** this project and contribute by adding additional features,
 
 ## License
 
-This project is open-source and available under the **MIT License**.
+This project is open-source and available under the **[MIT License](https://github.com/ishakumari1709/DS-projects/blob/main/LICENSE)**.
