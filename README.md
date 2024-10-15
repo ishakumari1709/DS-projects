@@ -7,8 +7,6 @@ Welcome to my project repository! This repository highlights a diverse range of 
 
 ## **Table of Contents**
 
-1. [Pizza Sales Analysis](#1-pizza-sales-analysis)
-
 ---
 
 ## **1. Pizza Sales Analysis**
@@ -27,6 +25,20 @@ This project involves a comprehensive analysis of pizza sales data using **SQL**
 
 
 ---
+## **2. Book web scraping analysis**
+**Tools and Libraries:** requests,BeautifulSoup,pandas,matplotlib & seaborn,CSV
+
+**Description:**
+This project scrapes book titles, star ratings, prices, availability, and URLs from the "Books to Scrape" website and analyzes the data for insights into pricing trends and ratings distribution.
+
+### **Key Features:**
+- Scrapes book details and dynamically extracts categories.
+- Handles pagination and filters 4-5 star books under $20.
+- Generates visualizations for price distribution and star rating counts.
+- Implements error handling and timeouts to avoid server overload.
+
+➡️ **For more details**, explore the [book web scraping analysis]().
+  
 
 ## **How to Get Started**
 
