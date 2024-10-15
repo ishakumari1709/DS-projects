@@ -55,7 +55,7 @@ The data extracted and saved includes:
 
 ## Output
 
-- **CSV File**: The scraped data is saved to a file called `books2.csv`.  
+- **CSV File**: The scraped data is saved to a file called [books2.csv](https://github.com/ishakumari1709/books-web-scraping-analysis/blob/main/books2.csv).  
 - **Filtered Books**: Books with a star rating of 4 or 5 and priced below $20 are displayed.
 
 ---
