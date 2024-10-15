@@ -48,9 +48,9 @@ We welcome contributions to improve the dashboard. Please follow these steps:
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/ishakumari1709/DS-projects/blob/main/LICENSE)file for more details.
 
 ## Contact
-Please open an issue in the repository or send us an email at ishakumari943@gmail.com if you have any questions or comments.
+Please open an issue in the repository or send an email at ishakumari943@gmail.com if you have any questions or comments.
 
-Thank you for visiting our repository! We hope you find the Pizza Sales Report dashboard insightful and useful
+Thank you for visiting my repository! We hope you find the Pizza Sales Report dashboard insightful and useful
 
 
 
